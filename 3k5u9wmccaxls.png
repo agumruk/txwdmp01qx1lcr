@@ -1,0 +1,8 @@
+<!-- Stringer Java Obfuscator configuration file -->
+<stringer checkCaller="true" verbose="true"
+optimize="true" integrityProtection="true"
+resourceEncryption="false"
+osgiCompatibility="false"
+    srcFile="C:\Users\TESTER\Desktop\2.jar"
+    destFile="C:\Users\TESTER\Desktop\3.jar">
+</stringer>
